@@ -3,7 +3,6 @@
 - 👀 I’m interested in almost anything(since ariana says that almost is never enough YKWIM)
 - 🌱 I’m currently learning python web-dev 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ....
 .....
 
 <!---
