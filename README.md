@@ -1,6 +1,6 @@
-- 👋 Hi, @natsydreamer here
-- 👀 I’m interested in almost anything(since ariana says that almost is never enough YKWIM)
-- 🌱 I’m currently learning python web-dev 
+- 👋 Hi, my name is Teguh Pambudi. I'm from Indonesia
+- 👀 I’m interested in web-dev(backend)
+- 🌱 I’m currently learning Golang 
 .....
 
 <!---
