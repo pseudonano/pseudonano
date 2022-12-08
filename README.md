@@ -1,7 +1,4 @@
-- 👋 Hi, my name is Teguh Pambudi. I'm from Indonesia
-- 👀 I’m interested in web-dev(backend)
-- 🌱 I’m currently learning Golang 
-.....
+- 🌱 I’m learning so I'm growing
 
 <!---
 natsydreamer/natsydreamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
