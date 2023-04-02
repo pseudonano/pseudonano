@@ -1,5 +1,4 @@
-- 🌱 I’m learning so I'm growing
-- go green
+🗿🗿🗿🗿🗿 🗿🗿🗿🗿🗿🗿🗿
 
 <!---
 natsydreamer/natsydreamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
