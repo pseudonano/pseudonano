@@ -1,4 +1,11 @@
-🗿🗿🗿🗿🗿 🗿🗿🗿🗿🗿🗿🗿
+🗿🗿🗿🗿🗿
+
+```mermaid
+graph LR
+A(BACA) -- Tulis --> B(LUPAKAN)
+```
+
+🗿🗿🗿🗿🗿
 
 <!---
 natsydreamer/natsydreamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
