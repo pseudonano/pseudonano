@@ -1,7 +1,7 @@
 
 ```mermaid
 graph LR
-A(Read) -- Write --> B(Forget)
+  A(Read) --> Write --> B(Forget) --> A[Read](wrap)
 ```
 
 
