@@ -1,7 +1,9 @@
 
 ```mermaid
-graph LR
-  A(Read) --> Write --> B(Forget) --> A[Read](wrap)
+graph TD
+  A(Read) --> B(Write);
+  B(Write) --> C(Forget);
+  C(Forget) --> A(Read);
 ```
 
 
