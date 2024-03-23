@@ -5,6 +5,7 @@ graph TD
   B{Write} --> C{Forget};
   C{Forget} --> A{Read};
 ```
+i dont really know what is this, but it's cool lol
 ```stl
 solid cube_corner
   facet normal 0.0 -1.0 0.0
