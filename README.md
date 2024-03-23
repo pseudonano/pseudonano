@@ -1,7 +1,7 @@
 
 ```mermaid
 graph LR
-A(BACA) -- Tulis --> B(LUPAKAN)
+A(Read) -- Write --> B(Forget)
 ```
 
 
