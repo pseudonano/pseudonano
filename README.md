@@ -1,11 +1,36 @@
-@@ -1,30 +1,30 @@
+
 
 ```mermaid
 graph TD
-  A{Read} --> B{Write};
-  B{Write} --> C{Forget};
-  C{Forget} --> A{Read};
-  C{Act} --> A{Read};
+  %% User Node
+    User["👨‍💻 pseudonano (GitHub User)"]
+
+    %% Main Activities
+    User -->|Manages| Repos[📂 Repositories]
+    User -->|Collaborates| PullRequests[🔃 Pull Requests]
+    User -->|Explores| Stars[⭐ Starred Projects]
+    User -->|Creates| Issues[🐞 Issues & Bugs]
+
+    %% Repositories Workflow
+    Repos --> RepoStatus{"Active or Archived?"}
+    RepoStatus -->|Active| ActiveRepos["Active Projects"]
+    RepoStatus -->|Archived| ArchivedRepos["Archived Projects"]
+    ActiveRepos --> CodePush[⚙️ Push Code]
+    ActiveRepos --> CI_CD[🚀 CI/CD Pipelines]
+    CodePush --> CI_CD
+    CI_CD --> Deployed[🌐 Deployed Applications]
+
+    %% Pull Requests Workflow
+    PullRequests --> ReviewPRs["Review & Merge"]
+    ReviewPRs --> Contribute[🎉 Contribute to Open Source]
+
+    %% Stars and Exploration
+    Stars --> Explore[🔍 Discover New Projects]
+    Explore --> Fork[🍴 Fork & Experiment]
+
+    %% Issues Workflow
+    Issues --> TrackBugs["Track & Resolve Bugs"]
+    Issues --> FeatureRequests["Request New Features"]
 ```
 ```stl
 solid cube_corner
