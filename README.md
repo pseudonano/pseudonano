@@ -32,7 +32,8 @@ graph TD
     Issues --> TrackBugs["Track & Resolve Bugs"]
     Issues --> FeatureRequests["Request New Features"]
 ```
-```stl
+```mermaid
+graph TD
    %% Styling
     classDef userStyle fill:#24292e,stroke:#0366d6,color:#ffffff,stroke-width:2px;
     classDef nodeStyle fill:#f6f8fa,stroke:#d1d5da,color:#000000,stroke-width:1px;
@@ -41,3 +42,4 @@ graph TD
     class User userStyle;
     class Repos,PullRequests,Stars,Issues,ActiveRepos,ArchivedRepos,CodePush,CI_CD,Deployed,ReviewPRs,Contribute,Explore,Fork,TrackBugs,FeatureRequests nodeStyle;
     class RepoStatus decisionStyle;
+```
