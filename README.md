@@ -33,25 +33,10 @@ graph TD
     Issues --> FeatureRequests["Request New Features"]
 ```
 ```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  facet normal 0.0 0.0 -1.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
-    endloop
-  endfacet
-  facet normal -1.0 0.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
-    endloop
-  endfacet
+classDef userStyle fill:#24292e,stroke:#0366d6,color:#ffffff,stroke-width:2px;
+    classDef nodeStyle fill:#f6f8fa,stroke:#d1d5da,color:#000000,stroke-width:1px;
+    classDef decisionStyle fill:#ffffff,stroke:#f39c12,color:#000000,stroke-width:2px,shape:diamond;
+
+    class User userStyle;
+    class Repos,PullRequests,Stars,Issues,ActiveRepos,ArchivedRepos,CodePush,CI_CD,Deployed,ReviewPRs,Contribute,Explore,Fork,TrackBugs,FeatureRequests nodeStyle;
+    class RepoStatus decisionStyle;
