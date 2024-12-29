@@ -33,6 +33,7 @@ graph TD
     Issues --> FeatureRequests["Request New Features"]
 ```
 ```stl
+   %% Styling
     classDef userStyle fill:#24292e,stroke:#0366d6,color:#ffffff,stroke-width:2px;
     classDef nodeStyle fill:#f6f8fa,stroke:#d1d5da,color:#000000,stroke-width:1px;
     classDef decisionStyle fill:#ffffff,stroke:#f39c12,color:#000000,stroke-width:2px,shape:diamond;
