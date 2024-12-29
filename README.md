@@ -3,7 +3,7 @@
 graph TD
   A{Read} --> B{Write};
   B{Write} --> C{Forget};
-  C{Forget} --> A{Read};
+  C{Act} --> A{Read};
 ```
 ```stl
 solid cube_corner
