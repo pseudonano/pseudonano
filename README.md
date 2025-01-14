@@ -8,5 +8,8 @@ Currently 'taking it easy' on life while maintain focus on grinding myself up. P
   
 **Contact:** https://www.linkedin.com/in/teguhpambudi/; teguhpambudi1251@gmail.com;
 
-[![Testing Framework](https://img.shields.io/badge/testing-JUnit-blue)](https://junit.org/junit5/) [![Testing Framework](https://img.shields.io/badge/testing-Selenium-blue)](https://www.selenium.dev/)  
+[![Testing Framework](https://img.shields.io/badge/testing-JUnit-blue)](https://junit.org/junit5/) [![Testing Framework](https://img.shields.io/badge/testing-Selenium-blue)](https://www.selenium.dev/) [![Testing Tool](https://img.shields.io/badge/Testing-Katalon-blue)](https://www.katalon.com/) [![Testing Tool](https://img.shields.io/badge/Testing-JMeter-blue)](https://jmeter.apache.org/) [![Testing Tool](https://img.shields.io/badge/Performance%20Testing-Micro%20Focus%20LoadRunner-blue)](https://www.microfocus.com/en-us/products/loadrunner-performance-testing)  
+ 
+ 
+ 
 
