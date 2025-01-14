@@ -7,3 +7,6 @@ Currently 'taking it easy' on life while maintain focus on grinding myself up. P
 **Projects:**  See my repositories below for a selection of my work.  
   
 **Contact:** https://www.linkedin.com/in/teguhpambudi/; teguhpambudi1251@gmail.com;
+
+[![Testing Framework](https://img.shields.io/badge/testing-JUnit-blue)](https://junit.org/junit5/) [![Testing Framework](https://img.shields.io/badge/testing-Selenium-blue)](https://www.selenium.dev/)  
+
