@@ -2,7 +2,7 @@
   
 Currently 'taking it easy' on life while maintain focus on grinding myself up. Proven experienced on Testing Applications.  
   
-**Tech Stack:** Manual Testing, Automation Testing(e.g. Selenium, Katalon Studio, HP LoadRunner, JMeter), Java, Javascript, Golang, HTML/CSS, Rest API  
+**Tech Stack:** Manual Testing, Automation Testing(e.g. Selenium, Katalon Studio, HP LoadRunner, JMeter), Java, Groovy, Javascript, Golang, HTML/CSS, Rest API  
   
 **Projects:**  See my repositories below for a selection of my work.  
   
