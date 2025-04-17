@@ -1,7 +1,6 @@
 # Teguh Pambudi  
 
-## "all that matters is you're actually learning stuff"
-Currently taking it easy while maintain focus on grinding myself up. Proven experienced on Testing Applications.  
+## "hi world"  
   
 **Tech Stack:** Manual Testing, Automation Testing(e.g. Selenium, Katalon Studio, HP LoadRunner, JMeter), Java, Groovy, Javascript, Golang, HTML/CSS, Rest API  
   
